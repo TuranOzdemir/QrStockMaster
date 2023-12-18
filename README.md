@@ -19,7 +19,7 @@ Make sure you have the following installed before running the application:
 - Other dependencies (if any)
 
 
-![image](https://github.com/TuranOzdemir/QrStockMaster/assets/62646952/d7c3a778-a288-4b84-8f17-4c50d968a366)
+![image](https://github.com/TuranOzdemir/QrStockMaster/assets/62646952/a40e2825-e4af-4873-9e79-bba4ae0b44d1)
 
 
 ![image](https://github.com/TuranOzdemir/QrStockMaster/assets/62646952/aaeef3ab-f1af-4a48-bd49-d8425e5d9a15)
