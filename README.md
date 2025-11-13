@@ -16,7 +16,6 @@ Make sure you have the following installed before running the application:
 
 - Python 3.x
 - PyQt5 library
-- Other dependencies (if any)
 
 
 ![image](https://github.com/TuranOzdemir/QrStockMaster/assets/62646952/a40e2825-e4af-4873-9e79-bba4ae0b44d1)
